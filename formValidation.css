@@ -1,0 +1,14 @@
+
+/* NOTE: While validating, make sure you use CSS */
+/* level 3 profile by accessing "More Options" */
+body {
+ 	font-family: Arial, Helvetica, sans-serif;
+} 
+
+fieldset {
+    border-radius: .75em;
+}
+
+input {
+    border-radius: .75em;
+}
